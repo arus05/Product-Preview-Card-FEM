@@ -111,6 +111,10 @@ body{
   box-shadow: none;
 }
 
+.card .right button:active{
+  background: hsl(158, 40%, 69%);
+}
+
 .card .right .btn-content{
   display: flex;
   align-items: center;
